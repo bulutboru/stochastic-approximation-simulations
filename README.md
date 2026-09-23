@@ -32,4 +32,3 @@ The filenames retain their manuscript-facing names.
 
 This code accompanies *Bias versus Tail Concentration Tradeoffs for Stochastic Approximation Algorithms*. For a permanent reference, cite the manuscript together with an immutable GitHub release or commit. A GitHub release can also be archived with Zenodo to obtain a DOI.
 
-Before making the repository public, add the final repository URL and your preferred software license.

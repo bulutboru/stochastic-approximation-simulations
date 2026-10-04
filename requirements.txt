@@ -1,4 +1,5 @@
-numpy==1.24.4
-matplotlib==3.8.0
+# Python >=3.11; numerical cells validated with Python 3.12.
+numpy==2.3.5
+matplotlib==3.10.8
+# Notebook interface (not needed by the numerical routines themselves).
 jupyterlab>=4,<5
-
